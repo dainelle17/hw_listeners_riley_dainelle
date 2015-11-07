@@ -1,8 +1,41 @@
 body {
-    background-color: 00e5ee;
+    background-color: purple;
+    display: block;
 }
 
 .container {
     text-align: center;
     margin: auto;
 }
+
+label {
+    display: block;
+    margin-top: 2em;
+    text-align: center;
+}
+
+form {
+    margin: 0 auto;
+}
+
+input, textarea {
+    background: #ffffff;
+    width: 20%;
+    border: 1px solid;
+    font-size: 1em;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    border-radius:5px;
+    margin-top:1em;
+    font-size:0.9em;
+}
+
+#submit {
+    border:none;
+    margin-top:20px;
+    cursor:pointer;
+}
+
+#submit:hover {
+        opacity:.9;
+    }
