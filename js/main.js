@@ -12,7 +12,7 @@ pageHeading.addEventListener('click', function () {
     pageHeading.className = 'blue';
 });
 
-//will change phrases on mouse over //
+//will change screen on mouse over //
 function over() {
    document.write ("Basquiat Yay");
     }
