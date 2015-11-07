@@ -1,0 +1,17 @@
+body {
+    background-image: url("http://www.twitterevolutions.com/bgs/pop-art-twitter-background.jpg");
+}
+
+#container {
+    max-width: 500px;
+    text-align: center;
+    padding: 1em;
+    margin: 0 auto;
+    background: #ffffff;
+
+}
+
+img {
+    width: 50%;
+}
+
